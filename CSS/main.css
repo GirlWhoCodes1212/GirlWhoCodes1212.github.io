@@ -42,3 +42,11 @@
     			padding: 14px 16px;
     			text-decoration: none; 
 	}
+	footer {
+		background-color: #000000;
+		color: white;
+		margin-top: 150px;
+		padding-left: 20px;
+		padding-top: 10px;
+		padding-bottom: 1px;
+	}
