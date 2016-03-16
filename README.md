@@ -8,10 +8,34 @@
 
 Example
 ```
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> Test For Website </title>
+		<link rel="stylesheet" href="CSS/main.css">
+	</head>
 
+
+	<body>
+		<nav>
+      			<ul>
+        			<li><a href="index.html">Home</a></li>
+        			<li><a class="active" href="#">About Me</a></li>
+      			</ul>
+    </nav>
+    <h4>Welcome to the Second Page!</h2>
+    <h2>That wasn't too hard!</h4>
+  </body>
+  <footer>
+    <p>Courtesy of GirlWhoCodes1212</p>
+  </footer>
+  ```
+  
 ## CSS = Cascading Style Sheet
 - Aesthetic
 - Fonts, Colors, Etc.
+
+Example
 
 ## Tags
 - Containers for Information
