@@ -36,6 +36,14 @@ Example
 - Fonts, Colors, Etc.
 
 Example
+```
+	h4 { 
+		color: #031634;
+		font-family: sans-serif;
+		font-size: 50px;
+		text-align: center; 
+	}
+```
 
 ## Tags
 - Containers for Information
