@@ -45,7 +45,7 @@ Example
 	}
 ```
 
-## Tags
+### Tags
 - Containers for Information
 - Opening and Closing Tags <...></...>
 
@@ -54,11 +54,11 @@ Example
 <h4>This is a very large heading!</h4>
 ```
 
-## Elements
+### Elements
 - Between the Tags
 - Usually contains user's information
 
-## Attributes
+### Attributes
 - Within Tags
 - Helps link to images and other websites
 
