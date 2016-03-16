@@ -38,6 +38,11 @@
     			font-family: sans-serif;
 	}
 	
+	p {
+		color: blue;
+		font-size: 150px;
+	}
+	
 	footer {
 		background-color: #000000;
 		color: #FFFFFF;
